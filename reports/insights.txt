@@ -1,0 +1,4 @@
+Bar chart: Finance has the highest average salary (90000) and Sales the lowest (41000).
+Histogram: the median salary is 56000, with most salaries between 48000 and 75000.
+Scatter: the highest paid employee is Karthik from Finance (90000).
+Line chart: salary does not rise with employee id, so pay depends on role and not on joining order.
